@@ -1,0 +1,22 @@
+# Obsidian configuration folder
+.obsidian/
+
+# Obsidian - Settings
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/community-plugins.json
+.obsidian/core-plugins.json
+.obsidian/hotkeys.json
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian Plugins - Executables & Data
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/styles.css
+
+# Specific theme files
+.obsidian/themes/*/theme.css
+
+# Trash
+.trash/
