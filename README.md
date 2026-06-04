@@ -2,7 +2,8 @@
 
 My personal music diary. Every LP, EP, single, and project I listen to gets a full write-up with track-by-track notes, ratings, and thoughts.
 
-Final reviews are also made available on my <a href="https://www.albumoftheyear.org/user/deohanis/" target="_blank" rel="noopener noreferrer">AOTY.</a>
+Final reviews are also made available on my [AOTY.](https://www.albumoftheyear.org/user/deohanis/)
+
 ---
 
 ## Rating System
