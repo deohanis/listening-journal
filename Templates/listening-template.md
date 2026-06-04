@@ -2,11 +2,16 @@
 
 **Tags:** #genre-here #artist-name #mood-here
 
-**Listened To:** YYYY-MM-DD  
-**Released:** YYYY  
-**Type:** Single / LP / EP / Live / Demo / Reissue / Soundtrack / Compilation / Mixtape / Other    
+**Listened To:** YYYY-MM-DD
+**Released:** Jan 1st, 2000
+**Record Label:** DeadAir Records
+**Distributor:** Universal Music Group
+**Format:** Single / LP / EP / Live / Demo / Reissue / Soundtrack / Compilation / Mixtape / Other
 **Genre:** Alternative Rock
 **Runtime:** XX:XX:XX
+**Guest Features:** Danny Brown
+**Producers:** Jane Remover
+**Writers:** Danny Brown & Jane Remover
 **First listen?** Yes / No / (re-listen #2)
 **Overall Rating:** 80/100
 
