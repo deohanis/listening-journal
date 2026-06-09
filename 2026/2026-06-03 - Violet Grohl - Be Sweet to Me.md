@@ -3,17 +3,29 @@
 **Tags:** #alternative-rock #usa #california
 
 **Listened To:** June 9th, 2026
+
 **Released:** May 29th, 2026
+
 **Record Label:** DeadAir Records
+
 **Distributor:** Universal Music Group
+
 **Format:** LP
+
 **Genre:** Alternative Rock
+
 **Runtime:** 00:31:57
+
 **Guest Features:** n/a
+
 **Producers:** Ainjel Emme, Anthony Paul Lopez & Justin Raisen
-**Writers:** Ainjel Emme, Anthony Paul Lopez, Brad Lauchert, Joe Kennedy, Joseph Zizzo, Julio Tavarez (Bassist), Justin Raisen & Violet Grohl
+
+**Writers:** Ainjel Emme, Anthony Paul Lopez, Brad Lauchert, Joe Kennedy, Joseph 
+Zizzo, Julio Tavarez (Bassist), Justin Raisen & Violet Grohl
+
 **First listen?** Yes
-**Overall Rating:** xxx/xxx
+
+**Overall Rating:** 60/100
 
 ## General thoughts
 *Be Sweet to Me* is the debut studio album by Violet Grohl. Exploring the rock landscape, Violet brings her own voice to the alternative scene, drawing inspiration from her father, Dave Grohl. Driven by heavy guitars and thrashing drums, the album contrasts raw intensity with her delicate, melodic vocals, shaping the foundation of her emerging signature sound.
@@ -66,7 +78,7 @@ Three months later, Violet announces her debut album via social media, along wit
 
 - Somewhat brings early 2000s nostalgia.
 
-**Score:** 90/100
+**Score:** 80/100
 
 ### 3. Bun in the Cake
 **Themes:** Moving away to her late grandmas place (Virginia Grohl)
@@ -160,11 +172,11 @@ Three months later, Violet announces her debut album via social media, along wit
 
 **Notes:**
 - Finishing acoustic ballad.
-- There was a sudden shift in vibe on the last 2.5 tracks. From the middle of 'Cool Buzz' onwards.
+- There was a sudden shift in vibe on the last 2.5 tracks. From the middle of 'Cool Buzz' onward.
 - Felt really connected to the themes explored in this track.
 - Love the transition back to the heavy instrumentals with loud cymbals to finish the project off after the realization that the illusion of perfection is starting to crack.
 
-**Score:** /100
+**Score:** 90/100
 
 **Favorite Track(s):** Plastic Couch and 595
 
